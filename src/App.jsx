@@ -14,6 +14,7 @@ function App() {
         </a>
       </div>
       <h1>Vite - github - netify integration</h1>
+      <h1>Made By Barkah</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
